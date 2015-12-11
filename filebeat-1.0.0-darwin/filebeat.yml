@@ -9,4 +9,4 @@ filebeat:
   prospectors:
     -
       paths:
-        - /Users/ruxandra/workspace/apache-tomcat-8.0.23/logs/metrics.log
+        - /Users/ruxandra/workspace/apache-tomcat-8.0.23/logs/*.log
